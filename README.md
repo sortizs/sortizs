@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Sebastian Ortiz</h1>
 <h3 align="center">A passionate full-stack developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Node.js, React.js. .NET WebAssembly and Python/Django**
+- 🌱 I’m currently learning **Node.js, React.js., .NET WebAssembly and Python/Django**
 
 - 💬 Ask me about **.NET and Angular**
 
