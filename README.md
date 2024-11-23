@@ -20,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sortizs&show_icons=true&locale=en&layout=compact" alt="sortizs" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sortizs&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sortizs&theme=onedark&row=3&column=3)](https://github.com/ryo-ma/github-profile-trophy)
